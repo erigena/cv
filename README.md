@@ -1,2 +1,1 @@
-# ERIGENA BOSI
-# CV
+# cv
